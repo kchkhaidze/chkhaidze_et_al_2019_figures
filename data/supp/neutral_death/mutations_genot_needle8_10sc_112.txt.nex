@@ -1,0 +1,80 @@
+#NEXUS
+[Data written by write.nexus.data.R, Fri Feb 15 22:17:40 2019]
+BEGIN DATA;
+  DIMENSIONS NTAX=11 NCHAR=414;
+  FORMAT DATATYPE=DNA MISSING=? GAP=- INTERLEAVE=YES;
+  MATRIX
+    normal      cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s10_c2      tttttttttccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s9_c1       ttttttttttttttttttttcccccccccccccccccccccccccccccccccccccctttttttttttttttttttttt
+    s8_c1       tttttttttccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s7_c2       tttttttttccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s6_c2       tttttttttccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s5_c2       tttttttttccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s4_c2       tttttttttccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s3_c1       tttttttttccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s2_c1       ttttttttttttttttttttttttttttttttttttttcccccccccccccccccccccccccccccccccccccccccc
+    s1_c1       tttttttttccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+    normal      cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s10_c2      cccccccccccccccccccccccccccccccccccccccccccccccccccttttttttttttttttttttttttttttt
+    s9_c1       ttttttttttttttttttttttttttttttttttttttttttttttttttcccccccccccccccccccccccccccccc
+    s8_c1       ccccccccccccccccccccccccccccccccccccccccccccccccccctttttttttttcccccccccccccccccc
+    s7_c2       cccccccccccccccccccccccccccccccccccccccccccccccccccttttttttttttttttttttttttttttt
+    s6_c2       cccccccccccccccccccccccccccccccccccccccccccccccccccttttttttttttttttttttttttttttt
+    s5_c2       cccccccccccccccccccccccccccccccccccccccccccccccccccttttttttttttttttttttttttttttt
+    s4_c2       cccccccccccccccccccccccccccccccccccccccccccccccccccttttttttttttttttttttttttttttt
+    s3_c1       ccccccccccccccccccccccccccccccccccccccccccccccccccctttttttttttcccccccccccccccccc
+    s2_c1       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s1_c1       ccccccccccccccccccccccccccccccccccccccccccccccccccctttttttttttcccccccccccccccccc
+
+    normal      cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s10_c2      tttttttttccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s9_c1       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s8_c1       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s7_c2       tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+    s6_c2       ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttcccccccccccc
+    s5_c2       tttttttttccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s4_c2       tttttttttttttttttttttttttttttttttttccccccccccccccccccccccccccccccccccccccccccccc
+    s3_c1       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s2_c1       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s1_c1       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+    normal      cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s10_c2      cccccccccccccccccccccccccccccccccccctttttttttttttttttttttttttttcccccccttttcccccc
+    s9_c1       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s8_c1       ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccct
+    s7_c2       ttttttttttttttttttttttttttttccttttcccccccccccccccccccccccccccccccccccccccccccccc
+    s6_c2       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s5_c2       cccccccccccccccccccccccccccccccccccctttttttttttttttttttttttttttccccccctttttttccc
+    s4_c2       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s3_c1       ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccct
+    s2_c1       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s1_c1       ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccct
+
+    normal      cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s10_c2      cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s9_c1       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s8_c1       tttttttttttttttttttttttttccccccccttttttttccccccccccccccccccccccccccccccccccccccc
+    s7_c2       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s6_c2       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s5_c2       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s4_c2       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s3_c1       tttttttttttttttttttttttttccccccccttttttttttttttttttttttttttttttttttttttttccccccc
+    s2_c1       cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    s1_c1       ttttttttttttttttttttttttttttttttcccccccccccccccccccccccccccccccccccccccccccccccc
+
+    normal      cccccccccccccc
+    s10_c2      cccccccccccccc
+    s9_c1       cccccccccccccc
+    s8_c1       cctttttttttccc
+    s7_c2       cccccccccccccc
+    s6_c2       cccccccccccccc
+    s5_c2       cccccccccccccc
+    s4_c2       cccccccccccccc
+    s3_c1       cccccccccccccc
+    s2_c1       cccccccccccccc
+    s1_c1       cccccccccccccc
+  ;
+END;
+

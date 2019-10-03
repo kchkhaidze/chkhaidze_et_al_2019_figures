@@ -1,0 +1,50 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Tuesday, 30 April 2019 at 19:07:04 Georgia Standard Time]
+[!
+>Data file = pt3.subs.csv.nex
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 49109 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        18202 characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 30907
+>    Gaps are treated as "missing"
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: random
+>    Number of replicates = 50
+>    Starting seed = generated automatically
+>    Number of trees held at each step = 1
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 100 (will be auto-increased by 100)
+>  Branches collapsed (creating polytomies) if maximum branch length is zero
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search completed
+>  Total number of rearrangements tried = 30612
+>  Score of best tree(s) found = 71721
+>  Number of trees retained = 1
+>  Time used = 0.03 sec (CPU time = 0.04 sec)
+]
+	Translate
+		1 normal,
+		2 P3.T4.2,
+		3 P3.T4.1,
+		4 P3.T3.4,
+		5 P3.T3.2,
+		6 P3.T2.2,
+		7 P3.T2.1,
+		8 P3.T1.4,
+		9 P3.T1.1,
+		10 P3.N.4,
+		11 P3.N.3,
+		12 P3.N.2,
+		13 P3.N.1
+		;
+tree 'PAUP_1' = [&U] (1:0,(((((2:2353,3:2338):4679,((4:4391,((6:2568,7:2738):2183,(8:4166,9:3402):1558):1511):1387,5:6253):4267):6645,12:4015):858,10:4333):589,(11:5350,13:4703):422):1012);
+End;

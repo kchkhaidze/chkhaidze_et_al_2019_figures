@@ -1,0 +1,6 @@
+# Universe size: 200x200x1
+# Seed: 1532439898
+# N clones: 2
+type_number	mutation_rate	birth_rate	death_rates	aggression	start_time	father
+0	30	1	0	4294967295	0	0
+1	30	4	0	4294967295	9	0

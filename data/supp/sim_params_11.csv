@@ -1,0 +1,12 @@
+# Universe size0: 400x400x1
+# Seed: 1523152244
+# N clones: 2
+# N clonal muts: 0
+# Sequencing depth: 100
+# Min variant reads: 2
+# Min VAF: 0
+# Sequencing depth model: 1
+# Output prefix: ./
+type_number	mutation_rate	birth_rate	death_rates	aggression	start_time	father	universe
+0	10	1	0	1	0	0	0
+1	10	1	0	1	4	0	0
